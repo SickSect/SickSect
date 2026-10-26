@@ -49,6 +49,7 @@ Telegram bot for daily nutrition tracking with a local AI advisor (Ollama) — n
 
 **🎮 [Asset Assistant for Blender with Local AI](https://github.com/SickSect/BlenderAgent)**
 Blender add-on that audits your game assets, fixes what is broken and carries the rest of the pipeline — UV, baking, retopology, export. Works with a local model (Ollama), no API keys needed. (Blender/Python)
+
 ---
 
 ### Connect
