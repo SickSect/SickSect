@@ -47,6 +47,8 @@ Test automation framework combining mobile UI tests (Appium) + API tests (custom
 **🤖 [Nutrition Tracker Bot with Local AI](https://github.com/SickSect/CaloriesCalc)**  
 Telegram bot for daily nutrition tracking with a local AI advisor (Ollama) — no external AI APIs, everything runs on-device. *(Python)*
 
+🎮 Asset Assistant for Blender with Local AI
+Blender add-on that audits your game assets, fixes what is broken and carries the rest of the pipeline — UV, baking, retopology, export. Works with a local model (Ollama), no API keys needed. (Blender/Python)
 ---
 
 ### Connect
